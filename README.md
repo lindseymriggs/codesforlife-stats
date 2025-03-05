@@ -1,2 +1,2 @@
-# codesforlife-stats
-Introduction to Github by creating a new statistics suite
+# Codes for Life Github Intro
+Introduction to github.com by creating a new statistics suite
